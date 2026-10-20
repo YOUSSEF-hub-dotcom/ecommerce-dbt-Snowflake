@@ -101,13 +101,13 @@ dbt Cloud environment or local dbt-core setup.
 Commands
 Build all models:
 
-Bash
+
 dbt run
 Execute data quality tests:
 
-Bash
+
 dbt test
 Generate & View Data Lineage Documentation:
 
-Bash
+
 dbt docs generate
